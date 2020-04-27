@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
         iniciar_sesion.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Toast.makeText(MainActivity.this, "Bienvendio Usuario:", Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity.this, "Bienvenido", Toast.LENGTH_SHORT).show();
             }
         });
     }
