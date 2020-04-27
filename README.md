@@ -1,1 +1,3 @@
 # SystemWHAndroid
+System WareHouse: La finalidad de este proyecto es realizar una app que sirva como "sistema de gestion de almacenaje", mediante un inicio de sesion y si aun no se tiene cuenta registrar-se, la app tendra funciones como visualizar stock, hacer comandas, ubicar stock,...
+(App no acabada aun) (Base de datos casi finalizada, pero no implementada a un en el proyecto de Android Studio)
